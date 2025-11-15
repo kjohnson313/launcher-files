@@ -1,10 +1,17 @@
 {
   "version": "1.0.0",
-  "url": "https://raw.githubusercontent.com/kjohnson313/launcher-files/refs/heads/main/files/modpack.zip",
-  "forceUpdate": true,
   "minecraftVersion": "1.20.1",
   "modloader": {
     "type": "Forge",
     "version": "47.1.3"
-  }
+  },
+  "url": "https://raw.githubusercontent.com/kjohnson313/launcher-files/refs/heads/main/files/modpack.zip",
+  "forceUpdate": true,
+  "server": {
+    "ip": "play.example.net",
+    "port": 25565,
+    "name": "My SMP"
+  },
+  "autoConnect": false,
+  "changelog": "Initial release of the modpack."
 }
