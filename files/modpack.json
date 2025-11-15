@@ -12,6 +12,6 @@
     "port": 25565,
     "name": "My SMP"
   },
-  "autoConnect": false,
+  "autoConnect": true,
   "changelog": "Initial release of the modpack."
 }
